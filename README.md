@@ -1,4 +1,4 @@
-📊 Customer Segmentation & Product Profitability Analysis
+## Customer Segmentation & Product Profitability Analysis
 
 
 
